@@ -1,2 +1,2 @@
 # paci
-Open source accounting software written in rust.
+Free accounting software written in rust.
